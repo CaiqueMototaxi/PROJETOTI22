@@ -1,0 +1,33 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+}
+h1{
+    text-align: center;
+    color: fuchsia;
+    text-shadow: 5px 5px 5px #ff0;
+}
+h2{
+    color: rgb(190, 99,111);
+}
+h2#cv_ol{ color: cadetblue;
+    text-align:center;}
+
+    hr
+    {border: 1px solid rgb(99, 1, 255);}
+
+    .er{border-top: 3px dashed rgb(99, 1, 255);
+        border-left-width: 3px dashed rgb(99, 1, 255);
+        border-width: 3px dashed rgb(99, 1, 255);
+        border-bottom: 3px dashed rgb(99, 1, 255);
+    }
+    img{
+        margin: auto;
+    }
+    .uu{
+        margin-left: 50%;
+        width: 50%;
+        height: 50%;
+
+    }
